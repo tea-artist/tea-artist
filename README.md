@@ -1,7 +1,7 @@
 ### Bieber
 FullStack Software Engineer
 
-Founder of http://teable.io, simplifies database use for everyone #DataDemocratizer
+Founder of https://teable.io, simplifies database use for everyone #DataDemocratizer
 
 * ❤️ Typescript
 * ❤️ Postgres
