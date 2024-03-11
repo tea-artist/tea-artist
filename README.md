@@ -1,12 +1,10 @@
-### Bieber - TypeScript Fullstack Engineer
+### Bieber
+FullStack Software Engineer
 
-Hello there! 👋 I'm Bieber, a passionate TypeScript Fullstack Engineer. I specialize in creating robust and scalable web applications.
+Founder of http://teable.io, simplifies database use for everyone #DataDemocratizer
 
-### About Me
-
-- 🌱 I’m currently working on cutting-edge web technologies and always eager to learn more.
-- 💻 With a strong background in TypeScript, I strive to build efficient and maintainable codebases.
-- 🚀 Technology stack includes React, Node.js, TypeScript, PostgreSQL, Nest.js, Next.js, Sharedb, Docker.
+* ❤️ Typescript
+* ❤️ Postgres
 
 ----------
 
